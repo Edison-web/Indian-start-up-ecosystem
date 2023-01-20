@@ -3,9 +3,9 @@
 ## Description
 This project is aimed at exploring the Indian ecosystem to see which companies and sectors received most funding as start-ups. 
 
-Column names and description :bulb::
+## Column names and description :bulb::
 
-:bullet: Company/Brand: Name of the company/start-up.
+:gem: Company/Brand: Name of the company/start-up.
 
 :gem: Founded: Year start-up was founded.
 
@@ -22,7 +22,7 @@ Column names and description :bulb::
 :gem: Stage: Round of funding reached
 
 
- Research Questions:
+## Research Questions:
 
 1. Which sector received the most funding from 2018 to 2021?
 2. How much funding has the fintech sector received in the Indian start-up ecosystem over the same period, compared to other sectors?
@@ -32,3 +32,9 @@ Column names and description :bulb::
 6. How does the average amount of funding received by fintech start-ups compare to the average amount of funding received by start-ups in other sectors in the Indian start-up ecosystem over the same period?
 7. Have the investment trends in the Indian start-up ecosystem shown a preference for fintech companies over other sectors from 2018 to 2021?
 
+## Visuals:camera:
+Here are some few visuals (answers) to some of the questions possed:
+
+<img src='C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\Amount$_top_10_sectorspng.png'>
+
+<img src='C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\pie_chart_fintechpng.png'>
