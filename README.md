@@ -5,7 +5,7 @@ This project is aimed at exploring the Indian ecosystem to see which companies a
 
 Column names and description :bulb::
 
-:bullet_point: Company/Brand: Name of the company/start-up.
+:bullet: Company/Brand: Name of the company/start-up.
 
 :gem: Founded: Year start-up was founded.
 
