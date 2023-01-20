@@ -3,7 +3,7 @@
 ## Description
 This project is aimed at exploring the Indian ecosystem to see which companies and sectors received most funding as start-ups. 
 
-## Column names and description :bulb::
+## Column names and description :bulb:
 
 :gem: Company/Brand: Name of the company/start-up.
 
@@ -35,6 +35,10 @@ This project is aimed at exploring the Indian ecosystem to see which companies a
 ## Visuals:camera:
 Here are some few visuals (answers) to some of the questions possed:
 
-<img src='C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\Amount$_top_10_sectorspng.png'>
+![Visuals](C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\Amount$_top_10_sectorspng.png)
 
-<img src='C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\pie_chart_fintechpng.png'>
+![pie_chart](C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\pie_chart_fintechpng.png)
+
+
+
+
