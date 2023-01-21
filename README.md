@@ -35,10 +35,6 @@ This project is aimed at exploring the Indian ecosystem to see which companies a
 ## Visuals:camera:
 Here are some few visuals (answers) to some of the questions possed:
 
-![Visuals]('C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\Amount$_top_10_sectorspng.png')
+![Alt text](Visuals/Amount$_top_10_sectorspng.png)
 
-![pie_chart]('C:\Users\Eddison\OneDrive\Desktop\Portfolio\LP1 project\Indian-start-up-ecosystem\Visuals\pie_chart_fintechpng.png')
-
-
-
-
+![Alt text](Visuals/pie_chart_fintechpng.png)
