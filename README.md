@@ -38,4 +38,5 @@ Here are some few visuals (answers) to some of the questions possed:
 ![Alt text](Visuals/Amount$_top_10_sectorspng.png)
 
 <br>
+
 ![Alt text](Visuals/pie_chart_fintechpng.png)
