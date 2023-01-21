@@ -1,4 +1,4 @@
-# Insight Into The Indian Startup Ecosystem
+# Insight Into The Indian Start-up Ecosystem
 
 ## Introduction:
 
@@ -20,11 +20,11 @@ For this project, my hypothesis is:
 
 ### Null hypothesis:
 
-Fintech is the most lucrative sector receiving the most significant funding in the Indian startup ecosys-tem.
+Fintech is the most lucrative sector receiving the most significant funding in the Indian start-up ecosys-tem.
 
 ### Alternate hypothesis:
 
-Fintech is not the most lucrative sector as it is not receiving the most significant amount of funding in the Indian startup ecosystem
+Fintech is not the most lucrative sector as it is not receiving the most significant amount of funding in the Indian start-up ecosystem
 
 ## Data understanding
 
@@ -48,17 +48,17 @@ After reviewing the data, some questions are posed to help reach a better conclu
 
 1. Which sector received the most funding from 2018 to 2021?
 
-2. How much funding has the fintech sector received in the Indian startup ecosystem over the same period, compared to other sectors?
+2. How much funding has the fintech sector received in the Indian start-up ecosystem over the same period, compared to other sectors?
 
-3. Have there been any significant fintech funding deals in the Indian startup ecosystem from 2018 to 2021?
+3. Have there been any significant fintech funding deals in the Indian start-up ecosystem from 2018 to 2021?
 
 4. What are the top 10 sectors that had the most funding over the same period?
 
 5. How many fintech start-up companies received funding from 2018 to 2021 compared to other companies in the top 10 sectors?
 
-6. How does the average amount of funding received by fintech startups compare to the average amount of funding received by start-ups in other sectors in the Indian startup ecosystem over the same period?
+6. How does the average amount of funding received by fintech startups compare to the average amount of funding received by start-ups in other sectors in the Indian start-up ecosystem over the same period?
 
-7. Have the investment trends in the Indian startup ecosystem shown a preference for fintech companies over other sectors from 2018 to 2021? 
+7. Have the investment trends in the Indian start-up ecosystem shown a preference for fintech companies over other sectors from 2018 to 2021? 
 
 
 
