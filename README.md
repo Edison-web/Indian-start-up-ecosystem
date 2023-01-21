@@ -42,7 +42,7 @@ Here are some few visuals (answers) to some of the questions possed:
 ![Alt text](Visuals/pie_chart_fintechpng.png)
 
 ## Note
-Kindly reference the **Code_file** to few the codes.
+Kindly reference the **Code_file** to view the codes.
 
 ## Author
 Edison Denutsui

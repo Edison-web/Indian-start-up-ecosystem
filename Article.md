@@ -1,4 +1,4 @@
-# Insight Into the Indian Startup Ecosystem
+# Insight Into The Indian Startup Ecosystem
 
 ## Introduction:
 
